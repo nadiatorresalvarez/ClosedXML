@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab13Web-NadiaTorres.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967a996a8bedbc6381ce5e744614fa4f8303a2d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab13Web-NadiaTorres.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab13Web-NadiaTorres.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
