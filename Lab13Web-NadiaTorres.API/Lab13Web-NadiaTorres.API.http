@@ -1,0 +1,6 @@
+@Lab13Web_NadiaTorres.API_HostAddress = http://localhost:5221
+
+GET {{Lab13Web_NadiaTorres.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
