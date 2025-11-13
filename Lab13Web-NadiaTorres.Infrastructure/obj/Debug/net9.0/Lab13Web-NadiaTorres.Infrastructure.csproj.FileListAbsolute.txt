@@ -1,0 +1,15 @@
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.deps.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.runtimeconfig.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.csproj.AssemblyReference.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.AssemblyInfoInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.AssemblyInfo.cs
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.csproj.CoreCompileInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.sourcelink.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\refint\Lab13Web-NadiaTorres.Infrastructure.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.genruntimeconfig.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\ref\Lab13Web-NadiaTorres.Infrastructure.dll

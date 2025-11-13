@@ -8,10 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Data\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="ClosedXML" Version="0.105.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.6">
         <PrivateAssets>all</PrivateAssets>
@@ -23,6 +19,11 @@
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
       <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="9.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab13Web-NadiaTorres.Application\Lab13Web-NadiaTorres.Application.csproj" />
+      <ProjectReference Include="..\Lab13Web-NadiaTorres.Domain\Lab13Web-NadiaTorres.Domain.csproj" />
     </ItemGroup>
 
 </Project>
