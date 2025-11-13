@@ -1,6 +1,24 @@
-﻿namespace Lab13Web_NadiaTorres.Infrastructure.Configuration;
+﻿using Lab13Web_NadiaTorres.Infrastructure.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
-public class InfrastructureServiceExtensions
+namespace Lab13Web_NadiaTorres.Infrastructure.Configuration;
+
+public static class InfrastructureServiceExtensions
 {
-    
+    public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
+    {
+        // Register infrastructure services here
+        
+        // Configuración de la conexión a la base de datos
+        services.AddDbContext<dbContextLab13>((serviceProvider, options) =>
+        {
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+        });
+        //services.AddScoped<IUnitOfWork, UnitOfWork>();
+        
+        return services;
+    }
 }
