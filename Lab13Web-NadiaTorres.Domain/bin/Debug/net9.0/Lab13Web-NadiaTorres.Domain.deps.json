@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lab13Web-NadiaTorres.Domain/1.0.0": {
+        "runtime": {
+          "Lab13Web-NadiaTorres.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab13Web-NadiaTorres.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

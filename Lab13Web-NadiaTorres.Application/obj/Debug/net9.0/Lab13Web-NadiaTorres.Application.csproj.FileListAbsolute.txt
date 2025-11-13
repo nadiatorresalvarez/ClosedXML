@@ -1,0 +1,13 @@
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\bin\Debug\net9.0\Lab13Web-NadiaTorres.Application.deps.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\bin\Debug\net9.0\Lab13Web-NadiaTorres.Application.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\bin\Debug\net9.0\Lab13Web-NadiaTorres.Application.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.csproj.AssemblyReference.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.AssemblyInfoInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.AssemblyInfo.cs
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.csproj.CoreCompileInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.sourcelink.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\refint\Lab13Web-NadiaTorres.Application.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\ref\Lab13Web-NadiaTorres.Application.dll

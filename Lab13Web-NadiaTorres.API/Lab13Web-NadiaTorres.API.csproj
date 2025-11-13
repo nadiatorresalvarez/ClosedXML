@@ -13,7 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Configuration\" />
+      <ProjectReference Include="..\Lab13Web-NadiaTorres.Infrastructure\Lab13Web-NadiaTorres.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,0 +1,12 @@
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.deps.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.AssemblyInfoInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.AssemblyInfo.cs
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.csproj.CoreCompileInputs.cache
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.sourcelink.json
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\refint\Lab13Web-NadiaTorres.Domain.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\Lab13Web-NadiaTorres.Domain.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Domain\obj\Debug\net9.0\ref\Lab13Web-NadiaTorres.Domain.dll
