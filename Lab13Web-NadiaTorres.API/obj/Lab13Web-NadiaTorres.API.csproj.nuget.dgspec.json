@@ -101,7 +101,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\tecsup\\6to\\desarrolloAppEmpresariales\\Lab13Web-NadiaTorres\\Lab13Web-NadiaTorres.Domain\\Lab13Web-NadiaTorres.Domain.csproj": {
+                "projectPath": "D:\\tecsup\\6to\\desarrolloAppEmpresariales\\Lab13Web-NadiaTorres\\Lab13Web-NadiaTorres.Domain\\Lab13Web-NadiaTorres.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

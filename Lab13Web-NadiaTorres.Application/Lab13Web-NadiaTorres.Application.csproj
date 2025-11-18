@@ -12,4 +12,12 @@
       <PackageReference Include="MediatR" Version="13.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="UseCases\OrderdetailUseCase\Commands\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab13Web-NadiaTorres.Domain\Lab13Web-NadiaTorres.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

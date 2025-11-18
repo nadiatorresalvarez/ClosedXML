@@ -631,6 +631,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Lab13Web-NadiaTorres.Domain": "1.0.0",
           "MediatR": "13.1.0"
         },
         "compile": {
