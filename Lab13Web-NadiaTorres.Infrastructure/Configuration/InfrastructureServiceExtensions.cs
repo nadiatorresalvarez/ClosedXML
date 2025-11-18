@@ -1,4 +1,7 @@
-﻿using Lab13Web_NadiaTorres.Infrastructure.Models;
+﻿using Lab13Web_NadiaTorres.Application.Interfaces;
+using Lab13Web_NadiaTorres.Infrastructure.Adapters.Repositories;
+using Lab13Web_NadiaTorres.Infrastructure.Adapters.Services;
+using Lab13Web_NadiaTorres.Infrastructure.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,7 +20,8 @@ public static class InfrastructureServiceExtensions
             var connectionString = configuration.GetConnectionString("DefaultConnection");
             options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
         });
-        //services.AddScoped<IUnitOfWork, UnitOfWork>();
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
+        services.AddScoped<IExcelService, ExcelService>();
         
         return services;
     }

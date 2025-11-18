@@ -5,7 +5,7 @@ namespace Lab13Web_NadiaTorres.Infrastructure.Models;
 
 public partial class Orderdetail
 {
-    public Guid OrderDetailId { get; set; }
+    public int OrderDetailId { get; set; }
 
     public int OrderId { get; set; }
 

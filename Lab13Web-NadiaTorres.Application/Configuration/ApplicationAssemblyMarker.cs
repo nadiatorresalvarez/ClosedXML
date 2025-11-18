@@ -10,6 +10,7 @@ public static class ApplicationAssemblyMarker
         // Register application services here
         services.AddAutoMapper(typeof(MappingProfile));
         
+        
         return services;
     }
 }

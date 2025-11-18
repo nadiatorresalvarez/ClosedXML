@@ -13,3 +13,8 @@ D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorr
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.pdb
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web-NadiaTorres.Infrastructure.genruntimeconfig.cache
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\ref\Lab13Web-NadiaTorres.Infrastructure.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Application.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Application.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Infrastructure\obj\Debug\net9.0\Lab13Web.A25C772B.Up2Date

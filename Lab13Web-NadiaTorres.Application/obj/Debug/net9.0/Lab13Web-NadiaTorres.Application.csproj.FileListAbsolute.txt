@@ -11,3 +11,6 @@ D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorr
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\refint\Lab13Web-NadiaTorres.Application.dll
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web-NadiaTorres.Application.pdb
 D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\ref\Lab13Web-NadiaTorres.Application.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.dll
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\bin\Debug\net9.0\Lab13Web-NadiaTorres.Domain.pdb
+D:\tecsup\6to\desarrolloAppEmpresariales\Lab13Web-NadiaTorres\Lab13Web-NadiaTorres.Application\obj\Debug\net9.0\Lab13Web.0EEEAB0A.Up2Date

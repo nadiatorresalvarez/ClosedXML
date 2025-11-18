@@ -5,4 +5,5 @@ namespace Lab13Web_NadiaTorres.Application.Interfaces;
 public interface IExcelService
 {
     byte[] GenerateOrderDetailsReport(List<Orderdetail> orderDetails);
+    byte[] GenerateProductsReport(List<Product> products);
 }
